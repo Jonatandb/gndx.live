@@ -1,0 +1,25 @@
+{
+  "name": "gndx.live",
+  "version": "1.0.0",
+  "description": "A simple SPA for Twitch/Youtube Lives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gndx/gndx.live.git"
+  },
+  "keywords": [
+    "javascript",
+    "svelte",
+    "twitch",
+    "youtube"
+  ],
+  "author": "Oscar Barajas <oscar@gndx.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gndx/gndx.live/issues"
+  },
+  "homepage": "https://github.com/gndx/gndx.live#readme"
+}
